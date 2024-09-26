@@ -6,7 +6,7 @@ A simple music player built with JavaScript, HTML, and CSS. This project demonst
 - Play, pause, and skip tracks
 - Volume control and mute option
 - Track progress bar
-- Stylish and responsive design
+- Stylish and responsive designNN
 
 <h2>Screen </h2>
 
